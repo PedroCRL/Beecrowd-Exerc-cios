@@ -1,2 +1,2 @@
-# Beecrowd-Exerc-cios
+# Beecrowd-Exercicios
 Praticando exercícios 
